@@ -1,11 +1,11 @@
-module github.com/GoAdminGroup/go-admin
+module github.com/arielwilka/go-admin
 
 go 1.21.5
 
 require (
 	github.com/360EntSecGroup-Skylar/excelize v1.4.1
-	github.com/GoAdminGroup/html v0.0.1
-	github.com/GoAdminGroup/themes v0.0.48
+	github.com/arielwilka/html v0.0.1
+	github.com/arielwilka/themes v0.0.48
 	github.com/NebulousLabs/fastrand v0.0.0-20181203155948-6fb6489aac4e
 	github.com/agiledragon/gomonkey v2.0.2+incompatible
 	github.com/astaxie/beego v1.12.1
